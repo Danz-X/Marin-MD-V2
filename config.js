@@ -17,9 +17,9 @@ second: 'numeric'
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['17608914335'] // Put your number here
+global.owner = ['6281252009563','62881027384033','6282170881881'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6282170881881'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -62,14 +62,14 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.author = `DANZZ－ＭＤ
 
 
 
 
 
-ig: senpai_chan_gemoy`
-global.wm = 'Ｍａｒｉｎ－ＭＤ'
+ig: raditya._sky`
+global.wm = 'DANZZ－ＭＤ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
